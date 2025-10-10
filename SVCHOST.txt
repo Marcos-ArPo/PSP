@@ -1,0 +1,7 @@
+  networkd-dispatcher.service   loaded active running Dispatcher daemon for systemd-networkd
+  systemd-journald.service      loaded active running Journal Service
+  systemd-logind.service        loaded active running User Login Management
+  systemd-oomd.service          loaded active running Userspace Out-Of-Memory (OOM) Killer
+  systemd-resolved.service      loaded active running Network Name Resolution
+  systemd-timesyncd.service     loaded active running Network Time Synchronization
+  systemd-udevd.service         loaded active running Rule-based Manager for Device Events and Files
